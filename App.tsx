@@ -6,7 +6,7 @@ import './global.css';
 export default function App() {
   return (
     <>
-      <ScreenContent title="CP - View, Components e NativeWind" path="Disciplica: Desenvolvimento Mobile"></ScreenContent>
+      <ScreenContent title="CP - View, Components e NativeWind" path="Disciplina: Desenvolvimento Mobile"></ScreenContent>
       <StatusBar style="auto" />
     </>
   );
