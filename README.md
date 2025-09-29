@@ -13,25 +13,6 @@ Este é um template de aplicativo React Native desenvolvido para a disciplina de
 
 O tema do CP é um **Catálogo de filmes, livros, produtos, etc.**, fornecendo uma base sólida para desenvolvimento de aplicativos de catálogo.
 
-## Funcionalidades
-
-- ✅ Estrutura de componentes modular
-- ✅ Estilização com NativeWind/Tailwind CSS
-- ✅ ScrollView para conteúdo rolável
-- ✅ SafeAreaView para compatibilidade
-- ✅ Suporte a TypeScript
-- ✅ Configuração Expo otimizada
-
-## Tecnologias Utilizadas
-
-- React Native
-- Expo
-- NativeWind
-- Tailwind CSS
-- TypeScript
-- ESLint
-- Prettier
-
 ## Integrantes do Time
 
 | Nome | RM |
